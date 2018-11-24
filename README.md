@@ -1,6 +1,6 @@
 # DirBN
 
-The demo code of PFA+DirBN in the paper of "Dirichlet belief networks for topic structure learning", NIPS 2018 [Arxiv](https://arxiv.org/abs/1811.00717).
+The demo code of PFA+DirBN in the paper of "Dirichlet belief networks for topic structure learning", NeurIPS 2018 [Arxiv](https://arxiv.org/abs/1811.00717).
 
 Key features:
 
