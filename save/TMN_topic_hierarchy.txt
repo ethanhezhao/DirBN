@@ -1,0 +1,450 @@
+Main topic: ID, Weight
+27, 6753.000000,  top make set power move high biggest close key makes
+Related topics: ID, Weight
+78, 132.42,  business time start money small make good market office ways
+37, 119.88,  life years time world book back young times good women
+5, 82.34,  wal mart world scientists climate water food farmers study pollution
+58, 75.03,  arab middle east political leaders world minister turkey foreign africa
+69, 66.02,  states united china iran india world trade countries military wednesday
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+30, 6568.000000,  tuesday monday year thursday friday week time years wednesday back
+Related topics: ID, Weight
+37, 83.29,  life years time world book back young times good women
+98, 51.94,  mets injury list season baseball league yankees left miss shoulder
+24, 49.10,  yankees mets sox game hit win run inning red phillies
+23, 48.51,  theater review broadway play book musical tony stage star series
+78, 45.95,  business time start money small make good market office ways
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+35, 5850.000000,  day play night career john fans named young lost weekend
+Related topics: ID, Weight
+37, 181.27,  life years time world book back young times good women
+23, 116.16,  theater review broadway play book musical tony stage star series
+6, 114.57,  nfl draft players league season pick lockout football quarterback team
+24, 92.53,  yankees mets sox game hit win run inning red phillies
+92, 84.01,  dies died hall chicago news fame age cooperative killebrew world
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+1, 3868.000000,  work public change system find health small program experts efforts
+Related topics: ID, Weight
+78, 156.13,  business time start money small make good market office ways
+37, 96.58,  life years time world book back young times good women
+5, 81.74,  wal mart world scientists climate water food farmers study pollution
+48, 75.66,  study cancer drug risk people women disease heart researchers brain
+39, 63.61,  tax billion state budget million year insurance pay california health
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+18, 3509.000000,  security military east war forces state protests tensions anti sources
+Related topics: ID, Weight
+58, 137.64,  arab middle east political leaders world minister turkey foreign africa
+17, 125.92,  protesters syria syrian forces protests protest thousands killed sudan president
+91, 112.07,  egypt mubarak president hosni iran minister egyptian military sri wednesday
+90, 111.70,  libya libyan rebels gaddafi forces nato muammar qaddafi rebel government
+47, 110.80,  bahrain rights saudi protests human state government group shi arabia
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+17, 3458.000000,  news called washington support report told amid sign official general
+Related topics: ID, Weight
+58, 60.01,  arab middle east political leaders world minister turkey foreign africa
+86, 59.01,  house budget republican republicans president senate obama plan democrats lawmakers
+1, 52.82,  china chinese rights artist tibetan government detained news weiwei human
+69, 46.95,  states united china iran india world trade countries military wednesday
+91, 45.91,  egypt mubarak president hosni iran minister egyptian military sri wednesday
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+42, 3072.000000,  wednesday government united group country international states nation saturday force
+Related topics: ID, Weight
+69, 76.35,  states united china iran india world trade countries military wednesday
+58, 63.77,  arab middle east political leaders world minister turkey foreign africa
+50, 42.38,  minister party election vote prime president elections government opposition russian
+72, 36.45,  south africa coast somali ship north pirates african migrants italy
+70, 35.94,  coli water armstrong gas outbreak doping germany pennsylvania natural lance
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+2, 2991.000000,  market growth percent increase higher cost report global cut price
+Related topics: ID, Weight
+81, 123.48,  growth year economy march prices april report sales economic rose
+68, 96.00,  profit sales percent quarter year earnings shares corp expected prices
+78, 93.60,  business time start money small make good market office ways
+9, 80.48,  stocks oil investors prices wall street stock market dollar week
+39, 78.27,  tax billion state budget million year insurance pay california health
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+43, 2791.000000,  good things photo watch upcoming annual today work magazine scene
+Related topics: ID, Weight
+37, 174.68,  life years time world book back young times good women
+65, 69.95,  awards award show men star stars music black mad vegas
+23, 68.70,  theater review broadway play book musical tony stage star series
+36, 58.00,  album music lady rock britney gaga star week tour country
+18, 57.58,  idol american charlie sheen show dancing season stars simon fox
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+41, 2696.000000,  charges accused case court charged judge lawyer trial man prosecutors
+Related topics: ID, Weight
+15, 188.30,  arrested charged police charges man accused charge authorities case year
+71, 98.46,  wikileaks report department documents probe files case military tuesday war
+32, 78.38,  madoff guilty attorney auction fund insider scheme manager fraud trading
+60, 72.03,  trial rajaratnam raj trading insider mladic hedge blagojevich galleon rod
+35, 71.41,  court lawsuit judge case federal filed appeals supreme appeal million
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+21, 2477.000000,  financial sell pay cash investment billion buy fund stock banks
+Related topics: ID, Weight
+62, 156.80,  bank financial banks billion mortgage goldman report chief sachs group
+78, 103.15,  business time start money small make good market office ways
+41, 67.68,  billion deal buy bid nyse company group mobile million euronext
+39, 64.27,  tax billion state budget million year insurance pay california health
+38, 59.79,  debt greece bank euro european central portugal bailout crisis zone
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+25, 2346.000000,  natural million energy range eye warning progress workers possibly production
+Related topics: ID, Weight
+5, 108.04,  wal mart world scientists climate water food farmers study pollution
+53, 94.79,  gas energy prices oil fuel gasoline high auto cars car
+100, 72.04,  nuclear japan plant power radiation crisis japanese fukushima tokyo crippled
+70, 66.60,  coli water armstrong gas outbreak doping germany pennsylvania natural lance
+21, 55.88,  japan earthquake tsunami quake japanese march friday massive devastating hit
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+47, 2318.000000,  people killed day officials southern fire area south city sunday
+Related topics: ID, Weight
+49, 84.35,  tornado tornadoes people alabama storms joplin storm south missouri killed
+17, 73.14,  protesters syria syrian forces protests protest thousands killed sudan president
+29, 51.21,  texas fire homes wildfires wildfire acres west drought state arizona
+40, 50.05,  police mexico found death man drug authorities shot border killed
+76, 49.04,  killed people pakistan attack police suicide officials security militants bomb
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+6, 2228.000000,  points comeback ninth snapped seventh beating advantage streak sweep wild
+Related topics: ID, Weight
+20, 116.54,  open nadal french win djokovic bruins final game canucks federer
+24, 108.91,  yankees mets sox game hit win run inning red phillies
+79, 105.52,  heat game miami points nba knicks celtics bulls mavericks scored
+84, 90.38,  tournament ncaa state butler final game basketball connecticut big points
+22, 75.90,  world united league soccer states cup manchester bulls barcelona final
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+26, 2227.000000,  aimed plan target discuss marked approval resolve union ability dispute
+Related topics: ID, Weight
+69, 74.20,  states united china iran india world trade countries military wednesday
+86, 73.75,  house budget republican republicans president senate obama plan democrats lawmakers
+50, 67.11,  minister party election vote prime president elections government opposition russian
+38, 59.73,  debt greece bank euro european central portugal bailout crisis zone
+3, 54.33,  law state wisconsin governor bill union public house abortion unions
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+29, 2143.000000,  company million chief companies services service executive plans information business
+Related topics: ID, Weight
+97, 90.40,  phone apple corp market tablet microsoft mobile nokia software google
+41, 86.75,  billion deal buy bid nyse company group mobile million euronext
+62, 70.85,  bank financial banks billion mortgage goldman report chief sachs group
+16, 68.74,  credit consumers card online retailers fees tickets pay offer consumer
+57, 66.45,  facebook social internet google online twitter web media search site
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+16, 2076.000000,  police army killing attack border attacked ordered captured cross fired
+Related topics: ID, Weight
+76, 77.09,  killed people pakistan attack police suicide officials security militants bomb
+15, 75.44,  arrested charged police charges man accused charge authorities case year
+40, 73.21,  police mexico found death man drug authorities shot border killed
+12, 59.69,  afghan war afghanistan military nato taliban iraq troops forces killed
+17, 53.45,  protesters syria syrian forces protests protest thousands killed sudan president
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+31, 1919.000000,  star love actor show cast opera drama hollywood talks life
+Related topics: ID, Weight
+23, 158.20,  theater review broadway play book musical tony stage star series
+65, 108.77,  awards award show men star stars music black mad vegas
+25, 66.71,  film cannes festival director arnold schwarzenegger movie life stars perry
+92, 60.44,  dies died hall chicago news fame age cooperative killebrew world
+37, 50.90,  life years time world book back young times good women
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+46, 1825.000000,  planet fair serve science favored trails main storied undo oddball
+Related topics: ID, Weight
+37, 174.40,  life years time world book back young times good women
+5, 123.17,  wal mart world scientists climate water food farmers study pollution
+63, 94.41,  city york florida mayor san burning pastor mars center friday
+23, 48.17,  theater review broadway play book musical tony stage star series
+78, 41.57,  business time start money small make good market office ways
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+5, 1628.000000,  miles roads report officials caused disaster highway hawaii found accident
+Related topics: ID, Weight
+5, 92.44,  wal mart world scientists climate water food farmers study pollution
+40, 51.40,  police mexico found death man drug authorities shot border killed
+52, 50.58,  air plane traffic crashed controller administration flight pilot controllers crash
+10, 46.93,  killed bus bomb people berlusconi crash blast injured police fire
+29, 45.29,  texas fire homes wildfires wildfire acres west drought state arizona
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+13, 1601.000000,  team season game player games league teams players baseball coach
+Related topics: ID, Weight
+6, 56.37,  nfl draft players league season pick lockout football quarterback team
+84, 48.58,  tournament ncaa state butler final game basketball connecticut big points
+79, 44.99,  heat game miami points nba knicks celtics bulls mavericks scored
+13, 40.85,  coach state football ohio ncaa basketball jim college bowl tressel
+85, 40.40,  nhl season coach devils team playoffs year games dallas capitals
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+45, 1581.000000,  win final sunday saturday lead title fourth round victory winner
+Related topics: ID, Weight
+22, 58.41,  world united league soccer states cup manchester bulls barcelona final
+31, 46.35,  golf masters lead woods tiger open round championship shot augusta
+20, 44.36,  open nadal french win djokovic bruins final game canucks federer
+84, 42.70,  tournament ncaa state butler final game basketball connecticut big points
+59, 41.41,  nascar race busch cup sprint win indycar kyle indy series
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+28, 1414.000000,  family children lives kids pounds discovered life families swedish alive
+Related topics: ID, Weight
+14, 94.57,  children kids baby parents school child boy life family food
+37, 83.03,  life years time world book back young times good women
+77, 64.07,  anthony health recipes casey diet year food mother daughter fresh
+48, 60.53,  study cancer drug risk people women disease heart researchers brain
+5, 56.54,  wal mart world scientists climate water food farmers study pollution
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+24, 1387.000000,  launches update selling games unveils introduces founder reader books features
+Related topics: ID, Weight
+56, 71.37,  apple ipad app iphone apps mobile android tech location music
+89, 63.19,  video game games nintendo electronic launch online wii person arts
+97, 53.02,  phone apple corp market tablet microsoft mobile nokia software google
+37, 49.51,  life years time world book back young times good women
+74, 41.79,  live news network television today nbc shows cbs show series
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+22, 1381.000000,  susan influence hat inside evolution aflac interviews closed cousin newly
+Related topics: ID, Weight
+37, 105.34,  life years time world book back young times good women
+92, 101.38,  dies died hall chicago news fame age cooperative killebrew world
+23, 82.77,  theater review broadway play book musical tony stage star series
+19, 53.22,  wedding royal kate prince william middleton london britain british friday
+36, 50.34,  album music lady rock britney gaga star week tour country
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+44, 1381.000000,  nbc viewers fox furniture overshadowed musical disney romantic ann weighing
+Related topics: ID, Weight
+65, 87.68,  awards award show men star stars music black mad vegas
+23, 78.07,  theater review broadway play book musical tony stage star series
+37, 75.87,  life years time world book back young times good women
+18, 74.33,  idol american charlie sheen show dancing season stars simon fox
+36, 66.43,  album music lady rock britney gaga star week tour country
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+8, 1371.000000,  spikes pains drinking response develop project reaches foul wet professor
+Related topics: ID, Weight
+5, 140.35,  wal mart world scientists climate water food farmers study pollution
+37, 95.75,  life years time world book back young times good women
+48, 87.15,  study cancer drug risk people women disease heart researchers brain
+78, 77.25,  business time start money small make good market office ways
+77, 46.41,  anthony health recipes casey diet year food mother daughter fresh
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+10, 1345.000000,  places scramble collection competing contributor kendall dannel flier lets appealing
+Related topics: ID, Weight
+78, 159.90,  business time start money small make good market office ways
+37, 92.03,  life years time world book back young times good women
+16, 73.97,  credit consumers card online retailers fees tickets pay offer consumer
+57, 70.03,  facebook social internet google online twitter web media search site
+56, 39.04,  apple ipad app iphone apps mobile android tech location music
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+23, 1237.000000,  president minister political prime party leader democratic opposition campaign election
+Related topics: ID, Weight
+50, 105.21,  minister party election vote prime president elections government opposition russian
+58, 49.95,  arab middle east political leaders world minister turkey foreign africa
+86, 40.38,  house budget republican republicans president senate obama plan democrats lawmakers
+83, 28.74,  obama president barack white house trump speech election administration wednesday
+30, 27.03,  presidential peru haiti election humala left poll president wing fujimori
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+38, 1001.000000,  runner february rumors antics standstill topped escalates virtually collar excuse
+Related topics: ID, Weight
+37, 139.35,  life years time world book back young times good women
+78, 53.23,  business time start money small make good market office ways
+44, 38.24,  office box carlo weekend gibson hollywood million rio film monte
+18, 35.83,  idol american charlie sheen show dancing season stars simon fox
+72, 21.59,  south africa coast somali ship north pirates african migrants italy
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+36, 997.000000,  medical researchers drug drugs additional health surgery study hospital partners
+Related topics: ID, Weight
+61, 144.92,  medical hospital health doctors care johnson patients drugs doctor drug
+48, 134.65,  study cancer drug risk people women disease heart researchers brain
+70, 47.35,  coli water armstrong gas outbreak doping germany pennsylvania natural lance
+96, 14.29,  gay sex jersey school marriage pope christie couples shore state
+98, 11.87,  mets injury list season baseball league yankees left miss shoulder
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+9, 993.000000,  performing rutgers anniversary lock reissue famed montana bassist eve kurt
+Related topics: ID, Weight
+37, 74.62,  life years time world book back young times good women
+14, 41.25,  children kids baby parents school child boy life family food
+80, 41.05,  school college students education university schools student test high colleges
+63, 37.18,  city york florida mayor san burning pastor mars center friday
+96, 34.13,  gay sex jersey school marriage pope christie couples shore state
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+11, 981.000000,  jake continuation typical job scrapped choose athletic beckham lingers restore
+Related topics: ID, Weight
+6, 100.14,  nfl draft players league season pick lockout football quarterback team
+13, 95.97,  coach state football ohio ncaa basketball jim college bowl tressel
+84, 68.02,  tournament ncaa state butler final game basketball connecticut big points
+2, 22.44,  los angeles lakers dodgers kings bryant nba team game kobe
+85, 20.54,  nhl season coach devils team playoffs year games dallas capitals
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+20, 975.000000,  bill republican law governor house lawmakers federal approved gov proposed
+Related topics: ID, Weight
+86, 114.68,  house budget republican republicans president senate obama plan democrats lawmakers
+3, 84.57,  law state wisconsin governor bill union public house abortion unions
+64, 47.09,  arizona immigration law state illegal cuba immigrants bill governor medical
+39, 29.57,  tax billion state budget million year insurance pay california health
+50, 19.95,  minister party election vote prime president elections government opposition russian
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+12, 969.000000,  sec general grounds presiding irregularities amended julius dutch hill stays
+Related topics: ID, Weight
+71, 78.09,  wikileaks report department documents probe files case military tuesday war
+35, 63.64,  court lawsuit judge case federal filed appeals supreme appeal million
+62, 52.00,  bank financial banks billion mortgage goldman report chief sachs group
+41, 46.79,  billion deal buy bid nyse company group mobile million euronext
+32, 45.55,  madoff guilty attorney auction fund insider scheme manager fraud trading
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+15, 948.000000,  holding paying crime federal homeless deputy roughly latinos miracle immigrant
+Related topics: ID, Weight
+15, 86.12,  arrested charged police charges man accused charge authorities case year
+40, 53.99,  police mexico found death man drug authorities shot border killed
+4, 40.69,  prison sentenced years guilty lohan jail life man lindsay year
+27, 39.53,  san death population census francisco man fan giants drug lethal
+10, 24.84,  killed bus bomb people berlusconi crash blast injured police fire
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+50, 936.000000,  snow evacuation braces parts rain communities water minimal cities flood
+Related topics: ID, Weight
+42, 76.77,  weather weekend season spring chad forecast severe south snow rain
+88, 70.94,  river mississippi flooding flood missouri levee residents dakota south north
+5, 67.93,  wal mart world scientists climate water food farmers study pollution
+29, 51.61,  texas fire homes wildfires wildfire acres west drought state arizona
+49, 49.22,  tornado tornadoes people alabama storms joplin storm south missouri killed
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+7, 921.000000,  prices fell earnings demand dollar oil investors solid gains inventories
+Related topics: ID, Weight
+9, 84.99,  stocks oil investors prices wall street stock market dollar week
+81, 82.70,  growth year economy march prices april report sales economic rose
+68, 77.62,  profit sales percent quarter year earnings shares corp expected prices
+78, 23.57,  business time start money small make good market office ways
+53, 21.13,  gas energy prices oil fuel gasoline high auto cars car
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+19, 898.000000,  formula marathon soccer severe inclusion suspends unpopular brazilian seize lifetime
+Related topics: ID, Weight
+22, 98.42,  world united league soccer states cup manchester bulls barcelona final
+11, 67.69,  sports day world photo olympic london replay games march olympics
+20, 35.73,  open nadal french win djokovic bruins final game canucks federer
+70, 29.77,  coli water armstrong gas outbreak doping germany pennsylvania natural lance
+28, 16.93,  coast ivory fifa president gbagbo forces laurent ouattara abidjan leader
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+14, 871.000000,  lucky towers told sitting glass nears competitive squad valeant newfound
+Related topics: ID, Weight
+37, 94.97,  life years time world book back young times good women
+58, 55.87,  arab middle east political leaders world minister turkey foreign africa
+78, 48.50,  business time start money small make good market office ways
+80, 29.31,  school college students education university schools student test high colleges
+23, 23.08,  theater review broadway play book musical tony stage star series
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+33, 850.000000,  handing perfectly sight tate flag kurdish learn faso headlines skeptical
+Related topics: ID, Weight
+37, 103.53,  life years time world book back young times good women
+23, 99.72,  theater review broadway play book musical tony stage star series
+66, 65.08,  title pacquiao champion boxing saturday fight manny fighting ufc heavyweight
+59, 45.24,  nascar race busch cup sprint win indycar kyle indy series
+96, 16.48,  gay sex jersey school marriage pope christie couples shore state
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+32, 842.000000,  marlins pitch phillies pitcher braves manny hughes travis baseman mccann
+Related topics: ID, Weight
+24, 129.47,  yankees mets sox game hit win run inning red phillies
+98, 103.17,  mets injury list season baseball league yankees left miss shoulder
+54, 54.39,  indians rays rangers cleveland texas sox tampa beat bay clinton
+37, 0.14,  life years time world book back young times good women
+31, 0.08,  golf masters lead woods tiger open round championship shot augusta
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+34, 800.000000,  state national arizona virginia florida texas college kansas georgia ohio
+Related topics: ID, Weight
+13, 41.29,  coach state football ohio ncaa basketball jim college bowl tressel
+84, 27.92,  tournament ncaa state butler final game basketball connecticut big points
+40, 24.61,  police mexico found death man drug authorities shot border killed
+96, 20.29,  gay sex jersey school marriage pope christie couples shore state
+27, 18.20,  san death population census francisco man fan giants drug lethal
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+48, 737.000000,  online software users computer phone internet microsoft amazon apple attack
+Related topics: ID, Weight
+56, 74.78,  apple ipad app iphone apps mobile android tech location music
+97, 54.60,  phone apple corp market tablet microsoft mobile nokia software google
+89, 42.89,  video game games nintendo electronic launch online wii person arts
+57, 41.83,  facebook social internet google online twitter web media search site
+94, 33.80,  sony data playstation network dame security notre breach attack hackers
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+40, 648.000000,  hoping anaheim playoffs booked improved shriver retirement bid defenseman milwaukee
+Related topics: ID, Weight
+85, 66.68,  nhl season coach devils team playoffs year games dallas capitals
+20, 59.14,  open nadal french win djokovic bruins final game canucks federer
+79, 36.50,  heat game miami points nba knicks celtics bulls mavericks scored
+2, 25.21,  los angeles lakers dodgers kings bryant nba team game kobe
+98, 23.49,  mets injury list season baseball league yankees left miss shoulder
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+37, 426.000000,  strokes winners packed recorded signaled palmer glover organizers clinch baze
+Related topics: ID, Weight
+31, 65.55,  golf masters lead woods tiger open round championship shot augusta
+51, 49.28,  pirates palmer watson lead classic reese simpson caribbean lewis nelson
+37, 9.96,  life years time world book back young times good women
+34, 7.49,  derby rail kentucky morning line animal kingdom horse race racing
+6, 5.27,  nfl draft players league season pick lockout football quarterback team
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+39, 370.000000,  air flight aircraft flights plane airline fly landing jet planes
+Related topics: ID, Weight
+87, 67.79,  airport flight airlines plane airline air jet theater fighter boeing
+52, 36.19,  air plane traffic crashed controller administration flight pilot controllers crash
+90, 12.82,  libya libyan rebels gaddafi forces nato muammar qaddafi rebel government
+45, 12.78,  france air merkel french ban german angela crash rio general
+73, 8.39,  space shuttle launch nasa giffords endeavour station gabrielle astronauts earth
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+49, 303.000000,  car cars auto motor murdoch pickup trucks vehicle speed persuading
+Related topics: ID, Weight
+7, 49.46,  toyota motor ford general production chief year motors cars auto
+53, 18.75,  gas energy prices oil fuel gasoline high auto cars car
+10, 10.61,  killed bus bomb people berlusconi crash blast injured police fire
+75, 8.42,  chrysler stake mets fiat team group government wilpon italian bieber
+59, 8.22,  nascar race busch cup sprint win indycar kyle indy series
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+3, 230.000000,  foods degrees dish madrid cucumbers grain enters general lte aspects
+Related topics: ID, Weight
+77, 39.80,  anthony health recipes casey diet year food mother daughter fresh
+70, 34.62,  coli water armstrong gas outbreak doping germany pennsylvania natural lance
+97, 11.52,  phone apple corp market tablet microsoft mobile nokia software google
+41, 7.05,  billion deal buy bid nyse company group mobile million euronext
+4, 1.04,  prison sentenced years guilty lohan jail life man lindsay year
++++++++++++++++++++++++++++++++++++++++++
+Main topic: ID, Weight
+4, 189.000000,  bearing transforming pace gathered pile botox stars tiger woodland resources
+Related topics: ID, Weight
+37, 40.70,  life years time world book back young times good women
+31, 13.37,  golf masters lead woods tiger open round championship shot augusta
+20, 6.25,  open nadal french win djokovic bruins final game canucks federer
+51, 3.09,  pirates palmer watson lead classic reese simpson caribbean lewis nelson
+19, 1.36,  wedding royal kate prince william middleton london britain british friday
++++++++++++++++++++++++++++++++++++++++++
